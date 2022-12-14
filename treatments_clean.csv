@@ -1,0 +1,165 @@
+hba1c_start,hba1c_end,hba1c_change,treatment,dose,dose_start,dose_end,adverse_reaction,patient_id
+7.63,7.2,0.43,auralin,41u - 48u,41,48,"headache, nausea",225
+7.97,7.62,0.35,auralin,33u - 36u,33,36,"hypoglycemia, body pain",242
+7.65,7.27,0.38,auralin,37u - 42u,37,42,"throat irritation, cough, nausea",345
+7.89,7.55,0.34,auralin,31u - 38u,31,38,"throat irritation, cough, nausea",276
+7.76,7.37,0.39,auralin,30u - 36u,30,36,"headache, nausea",15
+7.7,7.19,0.51,auralin,29u - 36u,29,36,"hypoglycemia, body pain",70
+9.54,9.14,0.4,auralin,29u - 38u,29,38,"headache, nausea",18
+7.74,7.3,0.44,auralin,27u - 37u,27,37,"throat irritation, cough, nausea",424
+7.78,7.34,0.44,auralin,55u - 68u,55,68,"throat irritation, cough, nausea",292
+7.53,7.13,0.4,auralin,28u - 37u,28,37,"headache, nausea",211
+7.61,7.29,0.32,auralin,29u - 39u,29,39,"throat irritation, cough, nausea",133
+8.61,8.18,0.43,auralin,53u - 60u,53,60,"hypoglycemia, body pain",316
+9.68,9.29,0.39,auralin,31u - 41u,31,41,"headache, nausea",101
+7.79,7.4,0.39,auralin,42u - 51u,42,51,"throat irritation, cough, nausea",451
+7.81,7.48,0.33,auralin,42u - 49u,42,49,"hypoglycemia, body pain",335
+7.7,7.38,0.32,auralin,35u - 39u,35,39,"hypoglycemia, body pain",389
+7.96,7.55,0.41,auralin,47u - 58u,47,58,"hypoglycemia, body pain",71
+7.68,7.24,0.44,auralin,45u - 48u,45,48,"hypoglycemia, body pain",297
+7.92,7.47,0.45,auralin,24u - 37u,24,37,"hypoglycemia, body pain",188
+7.92,7.57,0.35,auralin,44u - 55u,44,55,"headache, nausea",282
+7.53,7.15,0.38,auralin,37u - 43u,37,43,"throat irritation, cough, nausea",174
+7.67,7.37,0.3,auralin,43u - 47u,43,47,"hypoglycemia, body pain",146
+7.86,7.51,0.35,auralin,36u - 42u,36,42,"headache, nausea",35
+9.18,8.64,0.54,auralin,29u - 37u,29,37,"throat irritation, cough, nausea",350
+7.61,7.16,0.45,auralin,57u - 64u,57,64,"hypoglycemia, body pain",220
+7.52,7.11,0.41,auralin,54u - 67u,54,67,"throat irritation, cough, nausea",102
+7.71,7.34,0.37,auralin,34u - 42u,34,42,"headache, nausea",181
+7.87,7.47,0.4,auralin,29u - 37u,29,37,hypoglycemia,466
+7.74,7.32,0.42,auralin,61u - 67u,61,67,hypoglycemia,205
+7.58,7.12,0.46,auralin,37u - 46u,37,46,"throat irritation, cough, nausea",302
+7.81,7.5,0.31,auralin,30u - 39u,30,39,"headache, nausea",307
+7.63,7.3,0.33,auralin,39u - 46u,39,46,hypoglycemia,160
+7.71,7.33,0.38,auralin,24u - 32u,24,32,hypoglycemia,378
+7.63,7.32,0.31,auralin,32u - 42u,32,42,hypoglycemia,55
+9.12,8.73,0.39,auralin,25u - 32u,25,32,"throat irritation, cough, nausea",449
+7.56,7.08,0.48,auralin,36u - 46u,36,46,"hypoglycemia, body pain",256
+7.65,7.26,0.39,auralin,31u - 45u,31,45,"headache, nausea",143
+8.34,7.9,0.44,auralin,25u - 31u,25,31,hypoglycemia,460
+7.64,7.23,0.41,auralin,32u - 41u,32,41,hypoglycemia,8
+8.35,7.97,0.38,auralin,22u - 30u,22,30,hypoglycemia,209
+8.98,8.64,0.34,auralin,27u - 33u,27,33,hypoglycemia,360
+7.64,7.31,0.33,auralin,52u - 61u,52,61,hypoglycemia,14
+7.66,7.4,0.26,auralin,55u - 62u,55,62,"throat irritation, cough, nausea",403
+7.66,7.32,0.34,auralin,48u - 54u,48,54,nausea,452
+7.69,7.3,0.39,auralin,51u - 62u,51,62,hypoglycemia,277
+7.56,7.22,0.34,auralin,22u - 30u,22,30,"headache, nausea",468
+7.85,7.45,0.4,auralin,57u - 67u,57,67,"hypoglycemia, body pain",107
+7.78,7.34,0.44,auralin,36u - 39u,36,39,"hypoglycemia, body pain",438
+7.85,7.47,0.38,auralin,36u - 44u,36,44,"hypoglycemia, body pain",144
+7.53,7.12,0.41,auralin,30u - 35u,30,35,"hypoglycemia, body pain",260
+7.75,7.27,0.48,auralin,63u - 74u,63,74,"hypoglycemia, body pain",122
+8.37,7.97,0.4,auralin,26u - 36u,26,36,"throat irritation, cough, nausea",215
+7.89,7.55,0.34,auralin,40u - 49u,40,49,"headache, nausea",268
+7.73,7.34,0.39,auralin,36u - 44u,36,44,"hypoglycemia, body pain",417
+7.85,7.46,0.39,auralin,37u - 47u,37,47,"headache, nausea",221
+7.85,7.39,0.46,auralin,48u - 57u,48,57,"throat irritation, cough, nausea",138
+7.95,7.6,0.35,auralin,46u - 57u,46,57,cold,270
+7.51,7.17,0.34,auralin,26u - 34u,26,34,hypoglycemia,52
+7.66,7.3,0.36,auralin,39u - 46u,39,46,"headache, nausea",126
+7.86,7.4,0.46,auralin,26u - 39u,26,39,"throat irritation, cough, nausea",441
+7.6,7.09,0.51,auralin,22u - 31u,22,31,"headache, nausea",339
+7.9,7.59,0.31,auralin,30u - 38u,30,38,"throat irritation, cough, nausea",58
+7.68,7.28,0.4,auralin,58u - 63u,58,63,"hypoglycemia, body pain",486
+7.91,7.56,0.35,auralin,27u - 37u,27,37,"hypoglycemia, body pain",169
+7.8,7.41,0.39,auralin,42u - 50u,42,50,"headache, nausea",201
+7.62,7.23,0.39,auralin,38u - 43u,38,43,"hypoglycemia, body pain",173
+7.64,7.29,0.35,auralin,28u - 33u,28,33,"hypoglycemia, body pain",159
+9.91,9.46,0.45,auralin,37u - 45u,37,45,"hypoglycemia, body pain",77
+7.6,7.2,0.4,auralin,42u - 53u,42,53,"headache, nausea",362
+7.64,7.17,0.47,auralin,37u - 42u,37,42,"hypoglycemia, body pain",412
+7.58,7.29,0.29,auralin,43u - 56u,43,56,"throat irritation, cough, nausea",395
+7.53,7.02,0.51,auralin,51u - 59u,51,59,"headache, nausea",191
+8.35,7.92,0.43,auralin,30u - 38u,30,38,"throat irritation, cough, nausea",50
+7.73,7.36,0.37,auralin,25u - 35u,25,35,cold,39
+7.77,7.33,0.44,auralin,31u - 43u,31,43,hypoglycemia,45
+7.67,7.3,0.37,auralin,48u - 56u,48,56,"headache, nausea",28
+7.65,7.35,0.3,auralin,55u - 68u,55,68,"hypoglycemia, body pain",404
+7.57,7.21,0.36,auralin,38u - 47u,38,47,"throat irritation, cough, nausea",27
+7.83,7.39,0.44,auralin,39u - 50u,39,50,"hypoglycemia, body pain",42
+7.54,7.15,0.39,auralin,35u - 48u,35,48,"throat irritation, cough, nausea",74
+7.75,7.41,0.34,auralin,32u - 37u,32,37,"headache, nausea",380
+7.74,7.44,0.3,auralin,48u - 56u,48,56,nausea,100
+7.86,7.4,0.46,auralin,36u - 46u,36,46,"hypoglycemia, body pain",422
+7.56,7.09,0.47,novodra,40u - 45u,40,45,hypoglycemia,94
+7.68,7.25,0.43,novodra,39u - 36u,39,36,"headache, nausea",64
+7.78,7.46,0.32,novodra,33u - 29u,33,29,"throat irritation, cough, nausea",57
+7.56,7.18,0.38,novodra,42u - 44u,42,44,hypoglycemia,490
+8.08,7.7,0.38,novodra,54u - 54u,54,54,"headache, nausea",349
+7.87,7.49,0.38,novodra,36u - 38u,36,38,nausea,430
+7.61,7.16,0.45,novodra,47u - 45u,47,45,"hypoglycemia, body pain",26
+7.88,7.4,0.48,novodra,36u - 36u,36,36,"throat irritation, cough, nausea",95
+7.75,7.33,0.42,novodra,49u - 46u,49,46,"headache, nausea",306
+8.35,7.94,0.41,novodra,54u - 54u,54,54,"headache, nausea",240
+7.66,7.24,0.42,novodra,47u - 48u,47,48,nausea,145
+7.59,7.17,0.42,novodra,43u - 47u,43,47,"hypoglycemia, body pain",358
+9.82,9.4,0.42,novodra,44u - 43u,44,43,"headache, nausea",319
+7.94,7.5,0.44,novodra,49u - 47u,49,47,"throat irritation, cough, nausea",184
+7.7,7.23,0.47,novodra,45u - 46u,45,46,"hypoglycemia, body pain",43
+9.09,8.62,0.47,novodra,48u - 45u,48,45,"headache, nausea",435
+7.95,7.46,0.49,novodra,43u - 40u,43,40,"throat irritation, cough, nausea",228
+7.94,7.58,0.36,novodra,40u - 31u,40,31,"headache, nausea",462
+7.88,7.48,0.4,novodra,35u - 29u,35,29,nausea,222
+7.52,7.01,0.51,novodra,32u - 27u,32,27,"hypoglycemia, body pain",254
+7.62,7.16,0.46,novodra,29u - 30u,29,30,"throat irritation, cough, nausea",185
+7.53,7.11,0.42,novodra,44u - 43u,44,43,"headache, nausea",419
+7.55,7.16,0.39,novodra,36u - 32u,36,32,"throat irritation, cough, nausea",213
+7.67,7.32,0.35,novodra,31u - 31u,31,31,cold,200
+7.97,7.52,0.45,novodra,38u - 41u,38,41,hypoglycemia,334
+7.66,7.26,0.4,novodra,38u - 38u,38,38,"headache, nausea",20
+7.99,7.51,0.48,novodra,42u - 42u,42,42,"throat irritation, cough, nausea",491
+7.89,7.46,0.43,novodra,41u - 39u,41,39,hypoglycemia,38
+7.51,7.06,0.45,novodra,33u - 31u,33,31,"hypoglycemia, body pain",481
+7.78,7.31,0.47,novodra,41u - 39u,41,39,"headache, nausea",478
+7.98,7.53,0.45,novodra,42u - 41u,42,41,nausea,273
+7.67,7.29,0.38,novodra,19u - 27u,19,27,"hypoglycemia, body pain",75
+7.6,7.28,0.32,novodra,41u - 36u,41,36,"hypoglycemia, body pain",134
+9.35,8.89,0.46,novodra,36u - 37u,36,37,"throat irritation, cough, nausea",304
+7.88,7.56,0.32,novodra,43u - 42u,43,42,"hypoglycemia, body pain",237
+7.93,7.69,0.24,novodra,51u - 48u,51,48,"hypoglycemia, body pain",469
+8,7.53,0.47,novodra,53u - 55u,53,55,hypoglycemia,311
+7.76,7.37,0.39,novodra,44u - 49u,44,49,"throat irritation, cough, nausea",217
+7.95,7.55,0.4,novodra,29u - 32u,29,32,hypoglycemia,354
+7.98,7.53,0.45,novodra,54u - 50u,54,50,hypoglycemia,12
+7.88,7.5,0.38,novodra,38u - 39u,38,39,cold,259
+7.93,7.56,0.37,novodra,46u - 43u,46,43,"headache, nausea",161
+7.79,7.43,0.36,novodra,34u - 34u,34,34,headache,408
+9.13,8.72,0.41,novodra,49u - 46u,49,46,hypoglycemia,178
+7.7,7.4,0.3,novodra,41u - 38u,41,38,hypoglycemia,128
+9.63,9.21,0.42,novodra,49u - 50u,49,50,hypoglycemia,249
+7.78,7.45,0.33,novodra,39u - 36u,39,36,injection site discomfort,255
+7.72,7.29,0.43,novodra,38u - 32u,38,32,injection site discomfort,332
+7.87,7.43,0.44,novodra,41u - 43u,41,43,headache,394
+7.64,7.22,0.42,novodra,61u - 64u,61,64,"headache, nausea",198
+7.77,7.42,0.35,novodra,42u - 42u,42,42,"throat irritation, cough, nausea",247
+7.98,7.6,0.38,novodra,37u - 38u,37,38,"headache, nausea",187
+7.61,7.14,0.47,novodra,28u - 24u,28,24,"hypoglycemia, body pain",234
+7.99,7.56,0.43,novodra,24u - 26u,24,26,"headache, nausea",479
+7.73,7.34,0.39,novodra,20u - 21u,20,21,"hypoglycemia, body pain",49
+7.71,7.3,0.41,novodra,46u - 46u,46,46,hypoglycemia,356
+7.54,7.17,0.37,novodra,26u - 27u,26,27,"throat irritation, cough, nausea",208
+7.51,7.08,0.43,novodra,34u - 33u,34,33,injection site discomfort,373
+7.89,7.55,0.34,novodra,30u - 35u,30,35,"headache, nausea",63
+7.71,7.3,0.41,novodra,33u - 33u,33,33,nausea,1
+8,7.5,0.5,novodra,35u - 34u,35,34,"hypoglycemia, body pain",291
+7.79,7.45,0.34,novodra,30u - 27u,30,27,"hypoglycemia, body pain",363
+7.7,7.36,0.34,novodra,37u - 41u,37,41,"throat irritation, cough, nausea",465
+7.84,7.37,0.47,novodra,43u - 40u,43,40,hypoglycemia,421
+8.9,8.57,0.33,novodra,34u - 34u,34,34,injection site discomfort,376
+7.64,7.24,0.4,novodra,40u - 36u,40,36,"hypoglycemia, body pain",463
+7.54,7.26,0.28,novodra,37u - 40u,37,40,hypoglycemia,81
+7.67,7.21,0.46,novodra,26u - 23u,26,23,"hypoglycemia, body pain",322
+9.41,8.94,0.47,novodra,40u - 45u,40,45,hypoglycemia,392
+7.68,7.36,0.32,novodra,52u - 52u,52,52,"headache, nausea",262
+7.78,7.39,0.39,novodra,37u - 39u,37,39,"throat irritation, cough, nausea",68
+7.63,7.25,0.38,novodra,42u - 42u,42,42,"throat irritation, cough, nausea",152
+7.92,7.52,0.4,novodra,26u - 25u,26,25,"throat irritation, cough, nausea",431
+7.99,7.7,0.29,novodra,36u - 33u,36,33,"headache, nausea",450
+7.55,7.18,0.37,novodra,42u - 41u,42,41,"throat irritation, cough, nausea",194
+7.65,7.26,0.39,novodra,32u - 33u,32,33,"headache, nausea",7
+7.51,7.06,0.45,novodra,55u - 51u,55,51,nausea,153
+7.67,7.3,0.37,novodra,26u - 23u,26,23,"hypoglycemia, body pain",420
+9.21,8.8,0.41,novodra,22u - 23u,22,23,injection site discomfort,336
+7.96,7.51,0.45,novodra,28u - 26u,28,26,hypoglycemia,25
+7.68,7.21,0.47,novodra,42u - 44u,42,44,injection site discomfort,477
