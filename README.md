@@ -31,15 +31,3 @@ To run the Jupyter notebook:
 2. Clone this repository.
 3. Navigate to the repository directory in your terminal.
 4. Run `jupyter notebook` and open `Database Normalization.ipynb`.
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Contact
-
-For any further queries, please reach out to me at [kale.an@northeastern.edu](mailto:kale.an@northeastern.edu).
